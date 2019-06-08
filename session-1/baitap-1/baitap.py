@@ -1,0 +1,1 @@
+print('Hello everyone, Im Khoaa')
